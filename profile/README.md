@@ -53,4 +53,10 @@ Welcome to the Metallicus developer hub. This page provides a structured index o
 ## How to Get Started
 
 1. **Choose a blockchain** — XPR Network for fast transactions, Metal Blockchain for customizable subnets, or Metal L2 for EVM-based scaling.  
-2. **Integrate with APIs** — Use Metal X and Metal Pay APIs to
+2. **Integrate with APIs** — Use Metal X and Metal Pay APIs to connect trading, payments, and compliance-ready services.  
+3. **Experiment with dApps** — Explore Such DEX, Governance, and Lending to see working examples of decentralized applications.  
+4. **Monitor and debug** — Use the XPR Network Block Explorer and SDKs to track and refine your deployments.  
+
+---
+
+⚡ **Next step**: Visit the documentation for the blockchain or API you plan to use and begin building. All of these resources are maintained with developers in mind, so you can move from exploration to implementation quickly.  
